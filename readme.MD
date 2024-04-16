@@ -11,3 +11,14 @@ cd JARVIS
 2. Install all the packages via:
 ```
 pip install -r requirements.txt
+
+```
+## How to run app
+In the main folder run command:
+```
+export FLASK_APP=JARVIS_APP.py
+```
+and after run app via:
+```
+flask run
+```
