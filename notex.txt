@@ -1,0 +1,10 @@
+I am working on my Welcome Page here. 
+
+I should:
+1. Create a virtual environment
+2. Install all packages I need (for now I only sure that I need to have flask package)
+3. Index pge is going to be a Welcome page.
+4. Dodać pasek nawigacji
+5. Dodać napis "Jarvis Welocme page" z ewentualnym opisem (praca twórcza)
+6. Dodać przycisk do rejestracji użytkownika
+7. Dodać przycisk do logowania użytkownika.
